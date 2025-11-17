@@ -1,61 +1,32 @@
 # Roibot – AI Chatbot for WordPress (Powered by Google Gemini)
 
-[![GitHub](https://img.shields.io/badge/GitHub-pro--masud/roibot--wp--plugin-blue?logo=github&style=flat-square)](https://github.com/pro-masud/roibot-wp-plugin)
-[![WordPress Plugin Version](https://img.shields.io/wordpress/plugin/v/roibot?style=flat-square&label=Version)](https://github.com/pro-masud/roibot-wp-plugin)
-[![PHP Version](https://img.shields.io/badge/PHP-%3E%3D7.4-brightgreen.svg?style=flat-square)](https://www.php.net/)
-[![License](https://img.shields.io/badge/license-GPL%202.0%2B-blue.svg?style=flat-square)](http://www.gnu.org/licenses/gpl-2.0.txt)
+[![GitHub](https://img.shields.io/badge/GitHub-pro--masud/roibot--wp--plugin-success?style=flat-square&logo=github)](https://github.com/pro-masud/roibot-wp-plugin)
+[![WordPress](https://img.shields.io/wordpress/plugin/v/roibot?style=flat-square)](https://wordpress.org/plugins/roibot/)
+[![PHP 7.4+](https://img.shields.io/badge/PHP-7.4%2B-blue?style=flat-square)](https://php.net)
+[![License: GPL v2+](https://img.shields.io/badge/License-GPL%20v2%2B-blue.svg?style=flat-square)](http://www.gnu.org/licenses/gpl-2.0.txt)
 [![Stars](https://img.shields.io/github/stars/pro-masud/roibot-wp-plugin?style=social)](https://github.com/pro-masud/roibot-wp-plugin/stargazers)
+[![Forks](https://img.shields.io/github/forks/pro-masud/roibot-wp-plugin?style=social)](https://github.com/pro-masud/roibot-wp-plugin/network)
 
-**Roibot** is a modern, super-lightweight AI chatbot plugin for WordPress, powered by **Google Gemini** (via BNI Chatbot integration). Add an intelligent AI assistant to your website in under 2 minutes!
+**Roibot** is a super lightweight, fast, and completely free AI chatbot plugin for WordPress. Powered by **Google Gemini**, it adds a smart AI assistant to your website in under 2 minutes.
 
 Perfect for customer support, lead generation, FAQs, bookings, and interactive experiences.
 
 ## Features
 
-- Powered by **Google Gemini AI** – one of the smartest LLMs available
+- Powered by **Google Gemini AI** (one of the most advanced LLMs)
 - Simple shortcode: `[roibot]`
-- One-click site-wide display (automatically loads in footer)
-- Clean, beautiful, fully responsive chat widget
-- No heavy dependencies or external iframes
-- Super fast & lightweight
+- One-click site-wide display (auto-loads in footer)
+- Clean, responsive, mobile-friendly chat widget
+- No heavy libraries or external iframes
+- Extremely lightweight & fast loading
 - Fully translatable
-- Developer hooks & filters
-- 100% Free & Open Source (GPL v2+)
+- Developer-friendly hooks and filters
+- 100% free and open source (GPL v2+)
 
 ## Installation
 
-### Method 1: From GitHub (Latest Version)
+### From GitHub (always latest version)
 
-````bash
-# Clone or download this repo
-git clone https://github.com/pro-masud/roibot-wp-plugin.git# Roibot – AI Chatbot for WordPress (Powered by Google Gemini)
-
-[![GitHub](https://img.shields.io/badge/GitHub-pro--masud/roibot--wp--plugin-blue?logo=github&style=flat-square)](https://github.com/pro-masud/roibot-wp-plugin)
-[![WordPress Plugin Version](https://img.shields.io/wordpress/plugin/v/roibot?style=flat-square&label=Version)](https://github.com/pro-masud/roibot-wp-plugin)
-[![PHP Version](https://img.shields.io/badge/PHP-%3E%3D7.4-brightgreen.svg?style=flat-square)](https://www.php.net/)
-[![License](https://img.shields.io/badge/license-GPL%202.0%2B-blue.svg?style=flat-square)](http://www.gnu.org/licenses/gpl-2.0.txt)
-[![Stars](https://img.shields.io/github/stars/pro-masud/roibot-wp-plugin?style=social)](https://github.com/pro-masud/roibot-wp-plugin/stargazers)
-
-**Roibot** is a modern, super-lightweight AI chatbot plugin for WordPress, powered by **Google Gemini** (via BNI Chatbot integration). Add an intelligent AI assistant to your website in under 2 minutes!
-
-Perfect for customer support, lead generation, FAQs, bookings, and interactive experiences.
-
-## Features
-
-- Powered by **Google Gemini AI** – one of the smartest LLMs available
-- Simple shortcode: `[roibot]`
-- One-click site-wide display (automatically loads in footer)
-- Clean, beautiful, fully responsive chat widget
-- No heavy dependencies or external iframes
-- Super fast & lightweight
-- Fully translatable
-- Developer hooks & filters
-- 100% Free & Open Source (GPL v2+)
-
-## Installation
-
-### Method 1: From GitHub (Latest Version)
 ```bash
-# Clone or download this repo
 git clone https://github.com/pro-masud/roibot-wp-plugin.git
-````
+```
