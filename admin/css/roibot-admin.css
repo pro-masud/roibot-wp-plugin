@@ -1,0 +1,10 @@
+.roibot-colors label {
+  display: inline-block;
+  margin-right: 24px;
+}
+.roibot-media-row {
+  margin-bottom: 8px;
+  display: flex;
+  gap: 8px;
+  align-items: center;
+}
